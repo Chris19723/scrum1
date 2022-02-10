@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.tabla {
+  text-align: left;
+  color: aliceblue;
+}
+
+
+
